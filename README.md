@@ -6,9 +6,19 @@ Regole per il gioco da tavolo Wherewolf
 
 aaa
 
+## Fazioni
+
+- Villaggio :house:
+- Criminali :knife:
+- Lupi Mannari :wolf:
+- Vampiro :vampire:
+- Romeo e Giulietta :heart:
+- Pazzo :black_joker:
+- Lupo Reietto :skull:
+
 ## Ruoli
 
-aaa 🟢
+aaa
 
 ## Ordine di chiamata
 
