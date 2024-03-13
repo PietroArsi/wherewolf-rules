@@ -8,7 +8,7 @@ aaa
 
 ## Ruoli
 
-aaa
+aaa 🟢
 
 ## Ordine di chiamata
 
