@@ -13,7 +13,7 @@ aaa
 - Lupi Mannari :wolf:
 - Vampiro :vampire:
 - Romeo e Giulietta :heart:
-- Pazzo :black_joker:
+- Pazzo :bomb:
 - Lupo Reietto :skull:
 
 ## Ruoli
