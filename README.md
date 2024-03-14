@@ -46,7 +46,7 @@ Il Lupo Solitario è escluso dalla gerarchia.
 
 ## Fazioni
 
-- Villaggio <span class="ioda">🏠 </span>
+- Villaggio <span class="ioda">🏠</span>
     - Vince se in gioco non sono presenti Creature dell'Ombra (Lupi Mannari, Vampiri) o Criminali OPPURE vince se in gioco non sono presenti Lupi Mannari e Vampiri, sono presenti Criminali ma c’è almeno una Guardia.
 - Criminali 🗡️
     - Vince se in gioco non sono presenti Lupi Mannari, Vampiri o Guardie ed è presente almeno un Criminale.
@@ -54,7 +54,7 @@ Il Lupo Solitario è escluso dalla gerarchia.
     - Vince se sono presenti solo Ruoli con la Fazione Lupi Mannari.
 - Vampiro 🧛
     - Vince se sono presenti solo Ruoli con la fazione Vampiro.
-- Romeo e Giulietta :heart:
+- Romeo e Giulietta ❤️
     - Vince se, alla fine del gioco, l’altro giocatore con questa Fazione è ancora in vita.
 - Pazzo 💣
     - Vince se è stato ucciso dai Lupi Mannari. Se muore e viene riportato in vita, non ha (ancora) vinto.
