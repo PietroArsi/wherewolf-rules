@@ -66,7 +66,7 @@ Il Lupo Solitario è escluso dalla gerarchia.
 ### Indice per Fazioni
 
 - Villaggio
-    - [Azzeccagarbugli](roles/azzeccagarbugli.md)
+    - [Azzeccagarbugli](/roles/azzeccagarbugli.md)
     - Bocca di Rosa
     - Borgomastro
     - Cacciatore di Vampiri
