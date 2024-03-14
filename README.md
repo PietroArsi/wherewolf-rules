@@ -2,6 +2,8 @@
 
 Regole per il gioco da tavolo Wherewolf.
 
+$${\color{red}Prova prova prova}$$
+
 ## Link Rapidi
 
 - [Ordine di chiamata](#ordine-di-chiamata)
