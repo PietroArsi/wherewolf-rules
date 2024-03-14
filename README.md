@@ -63,7 +63,32 @@ Il Lupo Solitario è escluso dalla gerarchia.
 
 ## Ruoli
 
-WIP
+### Indice per Fazioni
+
+- Villaggio
+    - Azzeccagarbugli
+    - Bocca di Rosa
+    - Borgomastro
+    - Cacciatore di Vampiri
+    - Contadino
+    - Eremita
+    - Guardia
+    - Altra Guardia
+    - Guaritore
+    - Mago
+    - Medium
+    - Mercante
+    - Oratore
+    - Oste
+    - Peccatore
+    - Prete
+    - Strega
+    - Veggente
+- Criminali
+- Lupi Mannari
+- Vampiro
+- Altri
+
 
 ## Varianti
 
