@@ -19,6 +19,6 @@ sass:
   style: :compressed
 
 plugins:
-  - gemoji
+  - jemoji
   - jekyll-feed
   - jekyll-seo-tag
