@@ -2,7 +2,7 @@
 
 Regole per il gioco da tavolo Wherewolf.
 
-{% raw %} $${\textsf{\color{lightgreen}Provaaaa}}$$ {% endraw %}
+$${\textsf{\color{lightgreen}Provaaaa}}$$
 
 ## Link Rapidi
 
