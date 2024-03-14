@@ -1,4 +1,4 @@
-name: something
+name: wherewolf-rules
 title: null # name of the site
 author: Pietro Arsi # name of site's author
 # url: https://wherewolf-rules.dev # root address of the site
@@ -15,8 +15,8 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
 
-# sass:
-#   style: :compressed
+sass:
+  style: :compressed
 
 plugins:
   - jemoji
