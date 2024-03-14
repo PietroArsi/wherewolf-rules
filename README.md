@@ -42,6 +42,10 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
 4. Contadino Lupo
 5. Giovane Lupo
 
+### Creature dell'Ombra
+
+Le Creature dell'Ombra includono
+
 Il Lupo Solitario è escluso dalla gerarchia.
 
 ## Fazioni
@@ -85,9 +89,23 @@ Il Lupo Solitario è escluso dalla gerarchia.
     - Strega
     - Veggente
 - Criminali
+    - Assassino
+    - Capo Gilda
+    - Guardia Corrotta
+    - Spia
 - Lupi Mannari
+    - Capo Branco
+    - Giovane Lupo
+    - Lupo del Branco
+    - Lupo Maledetto
+    - Lupo Traditore
 - Vampiro
+    - Ghoul
+    - Vampiro
 - Altri
+    - Giulietta
+    - Lupo Reietto
+    - Pazzo
 
 <!-- ### Indice Alfabetico -->
 

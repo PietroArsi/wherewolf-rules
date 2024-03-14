@@ -7,7 +7,7 @@
 
 - Fazione: Villaggio <span class='emoji'>🏠</span>
 - Aura: bianca <span class='emoji'>👎</span>
-- Mistico: no
+- Mistico: no <span class='emoji'>👎</span>
 
 ## Descrizione
 
