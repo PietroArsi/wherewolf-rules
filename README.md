@@ -88,8 +88,8 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
 ### Indice per Fazioni
 
 - Villaggio
-    - [Angelo Custode](/roles/angelo-custode.md)
-    - [Azzeccagarbugli](/roles/azzeccagarbugli.md)
+    - [Angelo Custode](roles/angelo-custode.md)
+    - [Azzeccagarbugli](roles/azzeccagarbugli.md)
     - Bocca di Rosa
     - Borgomastro
     - Cacciatore di Vampiri
