@@ -6,9 +6,6 @@
 !logo3.png
 !README.md
 !_sass/
-!_data
-!_includes
 !_layouts
-!_posts
-!assets
+!roles
 !roles/*
