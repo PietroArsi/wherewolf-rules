@@ -1,4 +1,4 @@
-[Home](/)
+[Home](/wherewolf-rules)
 [Indietro](..)
 
 # Azzeccagarbugli
@@ -15,4 +15,4 @@ Può votare al ballottaggio anche se è accusato. Durante l'accusa, al posto di 
 
 ## Consigli di gioco
 
-Poter impedire che un giocatore vada al ballottaggio nella Seconda Votazione è sicuramente una difesa molto forte, dal momento che le fazioni opposte al Villaggio cercheranno di concentrare i voti per mandare al rogo i loro nemici. Il vostro potere non è delicato quanto quello dell’Oratore, in quanto in ogni caso qualcuno quel giorno brucerà. Valutate comunque con attenzione su chi usarlo, per non proteggere la persona sbagliata.
+Il vostro ruolo ha due effetti opposti: proteggere i vostri alleati della Città e costringere ad una arringa di difesa quelli che non godono della vostra fiducia. Durante i primi turni questo secondo aspetto è sicuramente molto importante perché farà in modo che ci siano più giocatori esposti e costretti a rivelare informazioni. Se il giocatore che segnalate non dovesse essere accusato, allora saprete di aver trovato un alleato, starà poi a voi fargli capire, magari velatamente, che siete dalla stessa parte.
