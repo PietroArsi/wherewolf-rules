@@ -26,10 +26,20 @@ Ogni giocatore vince con la fazione a cui appartiene al ruolo.
 Un giocatore può vincere anche se eliminato, a patto che la sua fazione di appartenenza vinca.
 Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appartiene l'ultimo ruolo assegnato.
 
+### Gerarchia dei Lupi Mannari
+
+1. Capo Branco
+2. Reietto
+3. Lupo del Branco
+4. Contadino Lupo
+5. Giovane Lupo
+
+Il Lupo Solitario è escluso dalla gerarchia.
+
 ## Fazioni
 
 - Villaggio :house:
-    - Vince se in gioco non sono presenti Lupi Mannari, Vampiri o Criminali OPPURE vince se in gioco non sono presenti Lupi Mannari e Vampiri, sono presenti Criminali ma c’è almeno una Guardia.
+    - Vince se in gioco non sono presenti Creature dell'Ombra (Lupi Mannari, Vampiri) o Criminali OPPURE vince se in gioco non sono presenti Lupi Mannari e Vampiri, sono presenti Criminali ma c’è almeno una Guardia.
 - Criminali :knife:
     - Vince se in gioco non sono presenti Lupi Mannari, Vampiri o Guardie ed è presente almeno un Criminale.
 - Lupi Mannari :wolf:
@@ -39,9 +49,9 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
 - Romeo e Giulietta :heart:
     - Vince se, alla fine del gioco, l’altro giocatore con questa Fazione è ancora in vita.
 - Pazzo :bomb:
-    - Vince se vince la Fazione Villaggio e lui è stato attaccato almeno una volta dai Lupi Mannari (di conseguenza di solito vince da morto, a meno che non sia stato protetto o salvato in qualche modo).
+    - Vince se è stato ucciso dai Lupi Mannari. Se muore e viene riportato in vita, non ha (ancora) vinto.
 - Lupo Reietto :skull:
-    - Vince se vince la Fazione dei Lupi Mannari e lui è l’unico Lupo Mannaro in gioco.
+    - Vince se vince la Fazione dei Lupi Mannari e lui è il lupo più forte in gioco.
 
 ## Ruoli
 
@@ -72,7 +82,7 @@ L'Amuleto viene distrutto se:
 
 ## Ordine di chiamata
 
-### PRIMA NOTTE
+### Prima notte
 
 1. VEGGENTE
 2. MAGO
@@ -94,7 +104,7 @@ L'Amuleto viene distrutto se:
 18. POSSEDUTO
 19. GUARITORE
 
-### NOTTI SEGUENTI
+### Notti seguenti
 
 1. VEGGENTE
 2. MEDIUM

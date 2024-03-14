@@ -5,7 +5,7 @@ author: Pietro Arsi # name of site's author
 
 permalink: /:slug.html
 
-favicon: "logo.png"
+favicon: "logo2.png"
 
 remote_theme: riggraz/no-style-please
 
