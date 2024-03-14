@@ -76,7 +76,7 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
     - WIP
 - Lupi Mannari <span class='emoji'>🐺</span>
     - Vince se sono presenti solo Ruoli con la Fazione Lupi Mannari.
-- Vampiro <span class='emoji'>🧛</span>
+- Vampiro <span class='emoji'>🧛‍♂️</span>
     - Vince se sono presenti solo Ruoli con la fazione Vampiro.
 - Romeo e Giulietta <span class='emoji'>❤️</span>
     - Vince se, alla fine del gioco, l’altro giocatore con questa Fazione è ancora in vita.
@@ -93,11 +93,11 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
     - [Angelo Custode](roles/angelo-custode.md)
     - [Azzeccagarbugli](roles/azzeccagarbugli.md)
     - [Bardo](roles/bardo.md)
-    - Cacciatore di Vampiri
-    - Contadino
-    - Eremita
-    - Guardia
-    - Altra Guardia
+    - [Cacciatore di Vampiri](roles/cacciatore-di-vampiri.md)
+    - [Contadino](roles/contadino.md)
+    - [Eremita](roles/eremita.md)
+    - [Guardia](roles/guardia.md)
+    - [Altra Guardia](roles/guardia.md)
     - Guaritore
     - Mago
     - Medium
@@ -113,22 +113,24 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
     - [Borgomastro](roles/borgomastro.md)
 - Criminali
     - [Assassino](roles/assassino.md)
-    - Capo Gilda
-    - Guardia Corrotta
+    - [Capo Gilda](roles/capo-gilda.md)
+    - [Guardia Corrotta](roles/guardia-corrotta.md)
     - Spia
 - Lupi Mannari
-    - Capo Branco
-    - Giovane Lupo
+    - [Capo Branco](roles/capo-branco.md)
+    - [Giovane Lupo](roles/giovane-lupo.md)
     - Lupo del Branco
     - Lupo Maledetto
     - Lupo Traditore
 - Vampiro
-    - Ghoul
     - Vampiro
 - Altri
-    - Giulietta
+    - [Ghoul](roles/ghoul.md)
+    - [Giulietta](roles/giulietta.md)
+    - [Giullare](roles/giullare.md)
     - Lupo Reietto
     - Pazzo
+    - Romeo
 
 <!-- ### Indice Alfabetico -->
 
