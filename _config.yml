@@ -2,6 +2,7 @@ name: wherewolf-rules
 title: null # name of the site
 author: Pietro Arsi # name of site's author
 # url: https://wherewolf-rules.dev # root address of the site
+baseurl: /wherewolf-rules
 
 permalink: /:slug.html
 
