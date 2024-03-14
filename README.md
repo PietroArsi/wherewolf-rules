@@ -46,7 +46,7 @@ Il Lupo Solitario è escluso dalla gerarchia.
 
 ## Fazioni
 
-- Villaggio <span class="ioda">🏠</span>
+- Villaggio <span class='emoji'>🏠</span>
     - Vince se in gioco non sono presenti Creature dell'Ombra (Lupi Mannari, Vampiri) o Criminali OPPURE vince se in gioco non sono presenti Lupi Mannari e Vampiri, sono presenti Criminali ma c’è almeno una Guardia.
 - Criminali 🗡️
     - Vince se in gioco non sono presenti Lupi Mannari, Vampiri o Guardie ed è presente almeno un Criminale.
