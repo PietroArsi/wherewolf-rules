@@ -9,3 +9,5 @@
 !_layouts
 !roles
 !roles/*
+!.vscode
+!.vscode/settings.json

@@ -3,12 +3,16 @@
 
 # Angelo Custode
 
-<span class='emoji'>🏠👎</span>
+<span class='emoji'>🏠👎👎</span>
 
 - Fazione: Amanti <span class='emoji'>🏠</span>
 - Aura: bianca <span class='emoji'>👎</span>
 - Mistico: no <span class='emoji'>👎</span>
 - Difficoltà: 
+
+## Condizioni di vittoria
+
+A fine partita, l'Amato è ancora in vita.
 
 ## Descrizione
 

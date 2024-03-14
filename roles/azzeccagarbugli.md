@@ -3,12 +3,16 @@
 
 # Azzeccagarbugli
 
-<span class='emoji'>🏠👎</span>
+<span class='emoji'>🏠👎👎</span>
 
 - Fazione: Villaggio <span class='emoji'>🏠</span>
 - Aura: bianca <span class='emoji'>👎</span>
 - Mistico: no <span class='emoji'>👎</span>
 - Difficoltà: 
+
+## Condizione di vittore
+
+Non ci sono più Creature dell'Ombra ed almeno un giocatore è in gioco.
 
 ## Descrizione
 

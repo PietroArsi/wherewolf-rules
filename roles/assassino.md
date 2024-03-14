@@ -3,17 +3,21 @@
 
 # Assassino
 
-<span class='emoji'>🏠👎</span>
+<span class='emoji'>🗡️👍👎</span>
 
-- Fazione: Villaggio <span class='emoji'>🏠</span>
-- Aura: bianca <span class='emoji'>👎</span>
+- Fazione: Criminali <span class='emoji'>🗡️</span>
+- Aura: nera <span class='emoji'>👍</span>
 - Mistico: no <span class='emoji'>👎</span>
 - Difficoltà: 
 
+## Condizione di vittoria
+
+Non ci sono più Creature dell'Ombra in gioco. A fine partita, c'è ancora almeno un giocatore con fazione Criminali in vita e non ci sono né la GUARDIA né l'ALTRA GUARDIA.
+
 ## Descrizione
 
-Può votare al ballottaggio anche se è accusato. Durante l'accusa, al posto di votare, può segnalare un altro giocatore: se il giocatore segnalato ha fazione Città o Criminali, i voti ricevuti dal giocatore segnalato sono azzerati a fine votazione. Se ha una qualsiasi altra fazione (o nessuna fazione), il giocatore segnalato è accusato a prescindere dai voti ricevuti. In quest'ultimo caso, se quel giocatore fosse stato accusato lo stesso per i voti ricevuti, il potere dell'AZZECCAGARBUGLI non cambia niente dal punto di vista di chi viene accusato.
+La 1a notte riconosce gli altri Criminali. Dalla 2a notte, una volta per partita può svegliarsi nel turno di un Mistico: se il Mistico è in gioco, questo Mistico muore dopo aver completato il proprio turno (l'ASSASSINO chiude gli occhi e non assiste al turno del Mistico). Se il Mistico non è in gioco, l'ASSASSINO sceglie un altro giocatore, che viene avvisato, e lo uccide, anche se il bersaglio fosse protetto per qualsiasi motivo dalle Creature dell'Ombra. Se il bersaglio fosse l'Amato, l'attacco è trasferito all'ANGELO CUSTODE, che muore anche se fosse ROMEO o protetto dalla STREGA.
 
 ## Consigli di gioco
 
-Il vostro ruolo ha due effetti opposti: proteggere i vostri alleati della Città e costringere ad una arringa di difesa quelli che non godono della vostra fiducia. Durante i primi turni questo secondo aspetto è sicuramente molto importante perché farà in modo che ci siano più giocatori esposti e costretti a rivelare informazioni. Se il giocatore che segnalate non dovesse essere accusato, allora saprete di aver trovato un alleato, starà poi a voi fargli capire, magari velatamente, che siete dalla stessa parte.
+Avete un solo colpo da sparare e dovete decidere molto bene come usarlo. L'obiettivo migliore potrebbe essere una GUARDIA, poiché nessun altro, a parte i Criminali, ha interesse che le guardie vengano eliminate. Di sicuro anche un Lupo sarebbe un ottimo bersaglio, anche perché, se capisse chi siete, sarebbe forse lui ad eliminare voi. Scegliete bene il momento in cui aprire gli occhi perché, se il Mistico di turno dovesse essere in gioco, dovreste uccidere per forza lui e perdereste così la vostra unica occasione.

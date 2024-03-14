@@ -72,6 +72,8 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
     - Vince se in gioco non sono presenti Creature dell'Ombra (Lupi Mannari, Vampiri) o Criminali OPPURE vince se in gioco non sono presenti Lupi Mannari e Vampiri, sono presenti Criminali ma c’è almeno una Guardia.
 - Criminali <span class='emoji'>🗡️</span>
     - Vince se in gioco non sono presenti Lupi Mannari, Vampiri o Guardie ed è presente almeno un Criminale.
+- Città <span class='emoji'>🏰</span>
+    - WIP
 - Lupi Mannari <span class='emoji'>🐺</span>
     - Vince se sono presenti solo Ruoli con la Fazione Lupi Mannari.
 - Vampiro <span class='emoji'>🧛</span>
@@ -90,8 +92,7 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
 - Villaggio
     - [Angelo Custode](roles/angelo-custode.md)
     - [Azzeccagarbugli](roles/azzeccagarbugli.md)
-    - Bocca di Rosa
-    - Borgomastro
+    - [Bardo](roles/bardo.md)
     - Cacciatore di Vampiri
     - Contadino
     - Eremita
@@ -107,8 +108,11 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
     - Prete
     - Strega
     - Veggente
+- Città
+    - [Bocca di Rosa](roles/bocca-di-rosa.md)
+    - [Borgomastro](roles/borgomastro.md)
 - Criminali
-    - Assassino
+    - [Assassino](roles/assassino.md)
     - Capo Gilda
     - Guardia Corrotta
     - Spia
@@ -136,12 +140,12 @@ aaa
 
 ### Rivelazione del ruolo
 
-Ogni volta che uun giocatore viene eliminato, viene rivelato ruolo e aura.
+Ogni volta che un giocatore viene eliminato, viene rivelato ruolo e aura.
 Con questa variante, alcuni ruoli non dovrebbero essere usuati, ad esempio il Medium.
 
 ### Votazione scoperta
 
-I giocatori eseguono votazione ed eventuuuale ballottaggio ad occhi aperti.
+I giocatori eseguono votazione ed eventuale ballottaggio ad occhi aperti.
 COn questa avriante, non devono essere usati ruoli che agiscono sulle votazioni.
 
 ### Amuleto e spada
