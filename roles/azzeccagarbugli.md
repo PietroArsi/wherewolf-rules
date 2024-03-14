@@ -3,13 +3,15 @@
 
 # Azzeccagarbugli
 
+<span class='emoji'>🏠👎</span>
+
 - Fazione: Villaggio <span class='emoji'>🏠</span>
-- Aura: bianca <span class='emoji'>👍</span>
+- Aura: bianca <span class='emoji'>👎</span>
 - Mistico: no
 
 ## Descrizione
 
-Durante la Prima Votazione, può scegliere un altro giocatore. Tutti i voti che riceve in quella Votazione sono annullati e il giocatore non potrà andare al ballottaggio nella Seconda Votazione. Per usare il suo potere, l’Azzeccagarbugli solleva la propria carta bene in vista quando il Moderatore chiama il nome del giocatore che l’Azzeccagarbugli ha scelto proteggere.L’ Azzeccagarbugli non può usare il suo potere su se stesso.
+Può votare al ballottaggio anche se è accusato. Durante l'accusa, al posto di votare, può segnalare un altro giocatore: se il giocatore segnalato ha fazione Città o Criminali, i voti ricevuti dal giocatore segnalato sono azzerati a fine votazione. Se ha una qualsiasi altra fazione (o nessuna fazione), il giocatore segnalato è accusato a prescindere dai voti ricevuti. In quest'ultimo caso, se quel giocatore fosse stato accusato lo stesso per i voti ricevuti, il potere dell'AZZECCAGARBUGLI non cambia niente dal punto di vista di chi viene accusato.
 
 ## Consigli di gioco
 
