@@ -1,6 +1,12 @@
 # Wherewolf
 
-Regole per il gioco da tavolo Wherewolf
+Regole per il gioco da tavolo Wherewolf.
+
+## Link Rapidi
+
+- [Ordine di chiamata](#ordine-di-chiamata)
+- [Gerarchia dei Lupi Mannari](#gerarchia-dei-lupi-mannari)
+- [Varianti](#varianti)
 
 ## Regole
 
