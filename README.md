@@ -42,11 +42,29 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
 4. Contadino Lupo
 5. Giovane Lupo
 
+### Fazioni degli Uomini
+
+Sono fazioni degli Uomini:
+- Villaggio
+- Città
+- Criminali
+- Amanti
+- Inquisizione
+
+Prerequisito fondamentale perché una o più di queste fazioni vinca è che vengano uccise tutte le Creature dell'Ombra. Quando questo accade, va verificato quale delle varie fazioni degli Uomini ha vinto.
+
 ### Creature dell'Ombra
 
-Le Creature dell'Ombra includono
+Le Creature dell'Ombra includono:
+- Lupo del Branco
+- Lupo Solitario
+- Vampiro
+- Nosferatu
+- Negromante
+- Posseduto
+- fazione fittizia "Maledetto"
 
-Il Lupo Solitario è escluso dalla gerarchia.
+La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
 
 ## Fazioni
 
@@ -70,6 +88,7 @@ Il Lupo Solitario è escluso dalla gerarchia.
 ### Indice per Fazioni
 
 - Villaggio
+    - [Angelo Custode](/roles/angelo-custode.md)
     - [Azzeccagarbugli](/roles/azzeccagarbugli.md)
     - Bocca di Rosa
     - Borgomastro
