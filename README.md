@@ -2,7 +2,7 @@
 
 Regole per il gioco da tavolo Wherewolf.
 
-${\textsf{\color{lightgreen}Provaaaa}}$
+$${\textsf{\color{lightgreen}Provaaaa}}$$
 
 ## Link Rapidi
 

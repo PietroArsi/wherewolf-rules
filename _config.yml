@@ -7,6 +7,8 @@ permalink: /:slug.html
 
 favicon: "logo2.png"
 
+markdown: maruku
+
 remote_theme: riggraz/no-style-please
 
 theme_config:
