@@ -59,15 +59,10 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
     - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
 - Necromante <span class='emoji'>⚰️</span>
     - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
-
-<!--- - Pazzo <span class='emoji'>💣</span>
-    - Essere attaccato ed ucciso (senza essere resuscitato) da un qualsiasi Lupo.
-- Giullare <span class='emoji'>🥳</span>
-    - Essere bruciato sul rogo. -->
-<!-- - Inquisizione
-    - Non ci sono più Creature dell'Ombra in gioco. Non ci sono Mistici in gioco a fine partita, compresi NEGROMANTE, MEGERA, LEPRECAUNO, SIDHE e GOBLIN. -->
-<!-- - Lupo Reietto <span class='emoji'>💀</span>
-    - Vince se vince la Fazione dei Lupi Mannari e lui è il lupo più forte in gioco. --->
+- Posseduto <span class='emoji'>👻</span>
+    - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati. Vincono tutti quelli che, durante la partita, hanno ricevuto la carta del POSSEDUTO.
+- Inquisizione <span class='emoji'>⚰️</span>
+    - Non ci sono più Creature dell'Ombra ed almeno un giocatore è in gioco. Non ci sono Mistici in gioco a fine partita, compresi NEGROMANTE, MEGERA, LEPRECAUNO, SIDHE e GOBLIN.
 
 ### Fazioni degli Uomini
 
@@ -95,56 +90,13 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
 
 ## Ruoli
 
-### Indice per Fazioni
+[Ruoli](roles-home/ruoli-all.md)
 
-- Villaggio
-    - [Angelo Custode](roles/angelo-custode.md)
-    - [Azzeccagarbugli](roles/azzeccagarbugli.md)
-    - [Bardo](roles/bardo.md)
-    - [Cacciatore di Vampiri](roles/cacciatore-di-vampiri.md)
-    - [Contadino](roles/contadino.md)
-    - [Eremita](roles/eremita.md)
-    - [Guardia](roles/guardia.md)
-    - [Altra Guardia](roles/guardia.md)
-    - [Guaritore](roles/guaritore.md)
-    - [Mago](roles/mago.md)
-    - [Medium](roles/medium.md)
-    - [Monaco](roles/monaco.md)
-    - [Oste](roles/oste.md)
-    - [Peccatore](roles/peccatore.md)
-    - [Prete](roles/prete.md)
-    - [Strega](roles/strega.md)
-    - [Veggente](roles/veggente.md)
-- Città
-    - [Bocca di Rosa](roles/bocca-di-rosa.md)
-    - [Borgomastro](roles/borgomastro.md)
-    - [Mercante](roles/mercante.md)
-    - [Oratore](roles/oratore.md)
-- Criminali
-    - [Assassino](roles/assassino.md)
-    - [Capo Gilda](roles/capo-gilda.md)
-    - [Guardia Corrotta](roles/guardia-corrotta.md)
-    - [Ladra](roles/ladra.md)
-    - [Spia](roles/spia.md)
-- Lupi Mannari
-    - [Capo Branco](roles/capo-branco.md)
-    - [Giovane Lupo](roles/giovane-lupo.md)
-    - [Lupo del Branco](roles/lupo-del-branco.md)
-- Vampiro
-    - [Vampiro](roles/vampiro.md)
-- Altri
-    - [Ghoul](roles/ghoul.md)
-    - [Giulietta](roles/giulietta.md)
-    - [Giullare](roles/giullare.md)
-    - [Necromante](roels/necromante.md)
-    - [Pazzo](roles/pazzo.md)
-    - [Traditore](roles/traditore.md)
+[Ruoli per Fazione](roles-home/ruoli-per-fazione.md)
 
-<!-- ### Indice Alfabetico -->
+[Ruoli in ordine alfabetico](roles-home/ruoli-alfab.md)
 
-#### Azzeccagarbugli
-
-aaa
+[Ruoli per lune (difficoltà)](roles-home/ruoli-lune.md)
 
 ## Varianti
 
@@ -156,7 +108,7 @@ Con questa variante, alcuni ruoli non dovrebbero essere usuati, ad esempio il Me
 ### Votazione scoperta
 
 I giocatori eseguono votazione ed eventuale ballottaggio ad occhi aperti.
-COn questa avriante, non devono essere usati ruoli che agiscono sulle votazioni.
+Con questa avriante, non devono essere usati ruoli che agiscono sulle votazioni.
 
 ### Amuleto e spada
 
