@@ -1,13 +1,13 @@
 *
 !.gitignore
 !_config.yaml
-!logo.png
 !logo2.png
-!logo3.png
 !README.md
 !_sass/
 !_layouts
-!roles
-!roles/*
+!roles-home
+!roles-home/*
+!roles-home/roles
+!roles-home/roles/*
 !.vscode
 !.vscode/settings.json
