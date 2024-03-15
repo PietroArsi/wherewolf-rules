@@ -43,6 +43,31 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
 4. Contadino Lupo
 5. Giovane Lupo
 
+## Fazioni
+
+- Villaggio <span class='emoji'>🏠</span>
+    - Non ci sono più Creature dell'Ombra in gioco e non ci sono Criminali in gioco a fine partita o, se almeno un Criminale è ancora in gioco, lo è anche almeno uno tra GUARDIA e ALTRA GUARDIA.
+- Criminali <span class='emoji'>🗡️</span>
+    - Non ci sono più Creature dell'Ombra in gioco. A fine partita, c'è ancora almeno un giocatore con fazione Criminali in vita e non ci sono né la GUARDIA né l'ALTRA GUARDIA.
+- Città <span class='emoji'>🏰</span>
+    - Non ci sono più Creature dell'Ombra in gioco.
+- Amanti <span class='emoji'>❤️</span>
+    - Il giocatore scelto (come ROMEO/Amato) è ancora in vita a fine partita, oppure il giocatore da cui si è stati indicati (GIULIETTA che ha scelto il proprio ROMEO) è ancora in vita a fine partita.
+- Lupi Mannari <span class='emoji'>🐺</span>
+    - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
+- Vampiro <span class='emoji'>🧛‍♂️</span>
+    - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
+- Necromante <span class='emoji'>⚰️</span>
+    - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
+<!-- - Pazzo <span class='emoji'>💣</span>
+    - Essere attaccato ed ucciso (senza essere resuscitato) da un qualsiasi Lupo.
+- Giullare <span class='emoji'>🥳</span>
+    - Essere bruciato sul rogo. -->
+<!-- - Inquisizione
+    - Non ci sono più Creature dell'Ombra in gioco. Non ci sono Mistici in gioco a fine partita, compresi NEGROMANTE, MEGERA, LEPRECAUNO, SIDHE e GOBLIN. -->
+<!-- - Lupo Reietto <span class='emoji'>💀</span>
+    - Vince se vince la Fazione dei Lupi Mannari e lui è il lupo più forte in gioco. -->
+
 ### Fazioni degli Uomini
 
 Sono fazioni degli Uomini:
@@ -54,9 +79,9 @@ Sono fazioni degli Uomini:
 
 Prerequisito fondamentale perché una o più di queste fazioni vinca è che vengano uccise tutte le Creature dell'Ombra. Quando questo accade, va verificato quale delle varie fazioni degli Uomini ha vinto.
 
-### Creature dell'Ombra
+### Fazioni dell'Ombra
 
-Le Creature dell'Ombra includono:
+Le Fazioni dell'Ombra (o Creature dell'Ombra) includono:
 - Lupo del Branco
 - Lupo Solitario
 - Vampiro
@@ -66,25 +91,6 @@ Le Creature dell'Ombra includono:
 - fazione fittizia "Maledetto"
 
 La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
-
-## Fazioni
-
-- Villaggio <span class='emoji'>🏠</span>
-    - Vince se in gioco non sono presenti Creature dell'Ombra (Lupi Mannari, Vampiri) o Criminali OPPURE vince se in gioco non sono presenti Lupi Mannari e Vampiri, sono presenti Criminali ma c’è almeno una Guardia.
-- Criminali <span class='emoji'>🗡️</span>
-    - Vince se in gioco non sono presenti Lupi Mannari, Vampiri o Guardie ed è presente almeno un Criminale.
-- Città <span class='emoji'>🏰</span>
-    - WIP
-- Lupi Mannari <span class='emoji'>🐺</span>
-    - Vince se sono presenti solo Ruoli con la Fazione Lupi Mannari.
-- Vampiro <span class='emoji'>🧛‍♂️</span>
-    - Vince se sono presenti solo Ruoli con la fazione Vampiro.
-- Romeo e Giulietta <span class='emoji'>❤️</span>
-    - Vince se, alla fine del gioco, l’altro giocatore con questa Fazione è ancora in vita.
-- Pazzo <span class='emoji'>💣</span>
-    - Vince se è stato ucciso dai Lupi Mannari. Se muore e viene riportato in vita, non ha (ancora) vinto.
-- Lupo Reietto <span class='emoji'>💀</span>
-    - Vince se vince la Fazione dei Lupi Mannari e lui è il lupo più forte in gioco.
 
 ## Ruoli
 

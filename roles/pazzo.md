@@ -12,7 +12,7 @@
 
 ## Condizione di vittore
 
-Essere attaccato ed ucciso (senza essere resuscitato) da un qualsiasi Lupo.
+Essere attaccato ed ucciso (senza essere resuscitato) da un qualsiasi Lupo. Se muore e viene riportato in vita, non ha (ancora) vinto.
 
 ## Descrizione
 
