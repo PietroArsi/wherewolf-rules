@@ -59,14 +59,15 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
     - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
 - Necromante <span class='emoji'>⚰️</span>
     - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
-<!-- - Pazzo <span class='emoji'>💣</span>
+
+<!--- - Pazzo <span class='emoji'>💣</span>
     - Essere attaccato ed ucciso (senza essere resuscitato) da un qualsiasi Lupo.
 - Giullare <span class='emoji'>🥳</span>
     - Essere bruciato sul rogo. -->
 <!-- - Inquisizione
     - Non ci sono più Creature dell'Ombra in gioco. Non ci sono Mistici in gioco a fine partita, compresi NEGROMANTE, MEGERA, LEPRECAUNO, SIDHE e GOBLIN. -->
 <!-- - Lupo Reietto <span class='emoji'>💀</span>
-    - Vince se vince la Fazione dei Lupi Mannari e lui è il lupo più forte in gioco. -->
+    - Vince se vince la Fazione dei Lupi Mannari e lui è il lupo più forte in gioco. --->
 
 ### Fazioni degli Uomini
 
