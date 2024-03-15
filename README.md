@@ -6,6 +6,7 @@ Regole per il gioco da tavolo Wherewolf.
 
 ## Link Rapidi
 
+- [Ruoli](#ruoli)
 - [Ordine di chiamata](#ordine-di-chiamata)
 - [Gerarchia dei Lupi Mannari](#gerarchia-dei-lupi-mannari)
 - [Varianti](#varianti)
@@ -98,39 +99,39 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
     - [Eremita](roles/eremita.md)
     - [Guardia](roles/guardia.md)
     - [Altra Guardia](roles/guardia.md)
-    - Guaritore
-    - Mago
-    - Medium
-    - Mercante
-    - Oratore
-    - Oste
-    - Peccatore
-    - Prete
-    - Strega
-    - Veggente
+    - [Guaritore](roles/guaritore.md)
+    - [Mago](roles/mago.md)
+    - [Medium](roles/medium.md)
+    - [Monaco](roles/monaco.md)
+    - [Oste](roles/oste.md)
+    - [Peccatore](roles/peccatore.md)
+    - [Prete](roles/prete.md)
+    - [Strega](roles/strega.md)
+    - [Veggente](roles/veggente.md)
 - Città
     - [Bocca di Rosa](roles/bocca-di-rosa.md)
     - [Borgomastro](roles/borgomastro.md)
+    - [Mercante](roles/mercante.md)
+    - [Oratore](roles/oratore.md)
 - Criminali
     - [Assassino](roles/assassino.md)
     - [Capo Gilda](roles/capo-gilda.md)
     - [Guardia Corrotta](roles/guardia-corrotta.md)
-    - Spia
+    - [Ladra](roles/ladra.md)
+    - [Spia](roles/spia.md)
 - Lupi Mannari
     - [Capo Branco](roles/capo-branco.md)
     - [Giovane Lupo](roles/giovane-lupo.md)
-    - Lupo del Branco
-    - Lupo Maledetto
-    - Lupo Traditore
+    - [Lupo del Branco](roles/lupo-del-branco.md)
 - Vampiro
-    - Vampiro
+    - [Vampiro](roles/vampiro.md)
 - Altri
     - [Ghoul](roles/ghoul.md)
     - [Giulietta](roles/giulietta.md)
     - [Giullare](roles/giullare.md)
-    - Lupo Reietto
-    - Pazzo
-    - Romeo
+    - [Necromante](roels/necromante.md)
+    - [Pazzo](roles/pazzo.md)
+    - [Traditore](roles/traditore.md)
 
 <!-- ### Indice Alfabetico -->
 
@@ -160,6 +161,10 @@ L'Amuleto viene distrutto se:
 - il possessore viene protetto dall'Amuleto
 - l'Amuleto viene dato a un giocatore che lo ha già avuto
 - il possessore si rifiuta di dare l'Amuleto a un altro giocatore
+
+### Daylight
+
+Wherewolf Daylight consiste nel giocare a Wherewolf con le stesse regole del gioco originale ma il giorno e la notte sono scanditi dal ciclo giorno/notte del mondo reale.
 
 ## Ordine di chiamata
 

@@ -18,6 +18,14 @@ Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gl
 
 La 1a notte individua il TRADITORE e la MEGERA, viene individuato dal LUPO SOLITARIO e riconosce gli altri Lupi del Branco. Non può mai attaccare, se viene bruciato sul rogo, la notte successiva il Lupo del Branco più forte in gioco (quindi non il LUPO SOLITARIO) secondo la gerarchia riportata qui sotto può attaccare 2 volte. I 2 attacchi sono risolti contemporaneamente.
 
+## Gerarchia dei Lupi Mannari
+
+1. Capo Branco
+2. Reietto
+3. Lupo del Branco
+4. Contadino Lupo
+5. Giovane Lupo
+
 ## Consigli di gioco
 
 Di tutti i Lupi del Branco, siete quello che teme meno di finire sul rogo. Anzi, molto probabilmente dovrete morire per dare il maggiore contributo ai costri compagni di branco. Il vostro compito sarà quindi quello di uscire allo scoperto anche bluffando un ruolo molto rischioso, per permettere ai vostri compagni di rimanere nascosti con ruoli che danno meno nell'occhio.
