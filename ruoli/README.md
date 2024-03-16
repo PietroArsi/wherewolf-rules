@@ -2,7 +2,7 @@
 layout: default
 --- --->
 
-[Home](/wherewolf-rules)
+<!--- [Home](/wherewolf-rules) --->
 
 # Ruoli
 
