@@ -5,9 +5,9 @@
 !README.md
 !_sass/
 !_layouts
-!roles-home
-!roles-home/*
-!roles-home/roles
-!roles-home/roles/*
+!ruoli
+!ruoli/*
+!ruoli/roles
+!ruoli/roles/*
 !.vscode
 !.vscode/settings.json
