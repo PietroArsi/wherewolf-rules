@@ -1,8 +1,3 @@
----
-layout: wiki
-title: Ruoli
----
-
 [Home](/wherewolf-rules)
 
 # Ruoli
