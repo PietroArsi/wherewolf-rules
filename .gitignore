@@ -11,3 +11,5 @@
 !ruoli/roles/*
 !.vscode
 !.vscode/settings.json
+!_layouts/
+!_layouts/*
