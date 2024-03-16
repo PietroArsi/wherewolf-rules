@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Ruoli
 
 ## Ruoli per fazione
