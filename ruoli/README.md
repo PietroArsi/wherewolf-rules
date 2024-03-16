@@ -1,6 +1,8 @@
----
+<!--- ---
 layout: default
----
+--- --->
+
+[Home](/wherewolf-rules)
 
 # Ruoli
 
