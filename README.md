@@ -94,7 +94,7 @@ La condizione di vittoria delle Creature dell'Ombra è essere l'unica fazione de
 
 ## Ruoli
 
-[Ruoli](ruoli/)
+Vedi [Ruoli](ruoli/) per informazioni sui ruoli.
 
 ## Varianti
 
