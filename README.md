@@ -43,6 +43,10 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
 4. Contadino Lupo
 5. Giovane Lupo
 
+### Altro
+
+In caso questa wiki non fosse esaustiva, vi  rimando alla [wiki originale](https://wherewolf.fandom.com/it/wiki/WikiWhereWolf).
+
 ## Fazioni
 
 - Villaggio <span class='emoji'>🏠</span>
