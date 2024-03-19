@@ -27,8 +27,8 @@ Il Moderatore chiamerà i Ruoli nell’ordine stabilito. Quando viene chiamato u
 Una volta che tutti i ruoli sono stati chiamati e hanno avuto modo di svolgere le loro azioni, il moderatore fa chiudere gli occhi a tutti (per precauzione) e annuncia l'arrivo del giorno, dove tutti possono riaprire gli occhi.
 Il moderatore annuncia le vittime della notte e inizia la discussione.
 Ogni giorno, i giocatori devono decidere un giocatore da mandare al rogo (i.e. eliminare dal gioco), tramite votazione anonima.
-In caso di parità si effettua un ballottaggio.
-In caso di ulteriore parità, non viene eliminato nessuno.
+I giocatori che hanno ricevuti i 2 quantitativi di voti più alti, andranno al ballottaggio.
+In caso di parità al ballottaggio, non viene eliminato nessuno.
 
 ### Fine partita
 
