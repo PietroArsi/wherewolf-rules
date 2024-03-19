@@ -10,6 +10,7 @@ Regole per il gioco da tavolo Wherewolf.
 - [Ordine di chiamata](#ordine-di-chiamata)
 - [Gerarchia dei Lupi Mannari](#gerarchia-dei-lupi-mannari)
 - [Varianti](#varianti)
+- [Wiki originale](#wiki-originale)
 
 ## Regole
 
@@ -43,7 +44,7 @@ Se un giocatore cambia ruolo durante la partita, vince con la fazione a cui appa
 4. Contadino Lupo
 5. Giovane Lupo
 
-### Altro
+### Wiki originale
 
 In caso questa wiki non fosse esaustiva, vi  rimando alla [wiki originale](https://wherewolf.fandom.com/it/wiki/WikiWhereWolf).
 
