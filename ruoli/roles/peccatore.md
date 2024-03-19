@@ -18,7 +18,7 @@ Se il Posseduto è effettivamente in gioco, il Peccatore diventa Senza Fazione e
 
 ## Descrizione
 
-La 1a notte è individuato dal PRETE, apre gli occhi ed assiste sempre a tutti i turni del POSSEDUTO (quindi, se la MEGERA sceglie di farsi individuare dal POSSEDUTO, la individua). Il PECCATORE vince col Villaggio se è ancora vivo a fine partita, vince col POSSEDUTO se muore prima della fine della partita.
+La 1ª notte è individuato dal PRETE, apre gli occhi ed assiste sempre a tutti i turni del POSSEDUTO (quindi, se la MEGERA sceglie di farsi individuare dal POSSEDUTO, la individua). Il PECCATORE vince col Villaggio se è ancora vivo a fine partita, vince col POSSEDUTO se muore prima della fine della partita.
 
 ## Consigli di gioco
 
