@@ -50,7 +50,7 @@ In fase di creazione del villaggio (i.e. decidere quali ruoli sono in gioco) è 
 
 - 1/3 non villaggio
 - 1/4 ombre
-- restante senza fazione
+- restante villaggio
 
 Queste proporzioni mirano a creare una partita equilibrata, tuttavia niente vieta al game master di cambaire leggermente le proporzioni per rendere le cose più interessanti. Le proporzioni riportate qui sopra, quindi, sono più delle linee guida per il master, piuttosto che una regola per i giocatori su cui speculare.
 
