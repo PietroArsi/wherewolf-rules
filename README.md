@@ -70,7 +70,11 @@ In caso questa wiki non fosse esaustiva, vi  rimando alla [wiki originale](https
     - Il giocatore scelto (come ROMEO/Amato) è ancora in vita a fine partita, oppure il giocatore da cui si è stati indicati (GIULIETTA che ha scelto il proprio ROMEO) è ancora in vita a fine partita.
 - Lupi Mannari <span class='emoji'>🐺</span>
     - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
+- Lupo Solitario <span class='emoji'>🔫</span>
+    - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
 - Vampiro <span class='emoji'>🧛‍♂️</span>
+    - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
+- Nosferatu <span class='emoji'>✝️</span>
     - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
 - Necromante <span class='emoji'>⚰️</span>
     - Essere l'unica fazione delle Creature dell'Ombra ancora in gioco quando tutti gli Umani (esclusi i giocatori senza fazione) sono stati eliminati.
