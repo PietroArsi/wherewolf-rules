@@ -58,6 +58,8 @@ Queste proporzioni mirano a creare una partita equilibrata, tuttavia niente viet
 
 In caso questa wiki non fosse esaustiva, vi  rimando alla [wiki originale](https://wherewolf.fandom.com/it/wiki/WikiWhereWolf).
 
+Se hai trovato un errore nella wiki, segnalalo sulla [repository](https://github.com/PietroArsi/wherewolf-rules).
+
 ## Fazioni
 
 - Villaggio <span class='emoji'>🏠</span>
