@@ -142,6 +142,12 @@ Wherewolf Daylight consiste nel giocare a Wherewolf con le stesse regole del gio
 
 ## Ordine di chiamata
 
+### Guide per il narratore
+
+Vedi [Prima Notte](first-night/) per la guida del narratore per la prima notte.
+
+Vedi [Notti Successive](other-nights/) per la guida del narratore per le notti successive.
+
 ### Prima notte
 
 1. VEGGENTE

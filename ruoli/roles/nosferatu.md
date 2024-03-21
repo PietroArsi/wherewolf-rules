@@ -8,7 +8,7 @@
 - Fazione: Nosferatu <span class='emoji'>✝️</span>
 - Aura: nera <span class='emoji'>👍</span>
 - Mistico: no <span class='emoji'>👎</span>
-- Difficoltà: 
+- Difficoltà: <span class='emoji'>🌙🌙🌙</span>
 
 ## Condizione di vittoria
 

@@ -8,7 +8,7 @@
 - Fazione: Necromante <span class='emoji'>⚰️</span>
 - Aura: nera <span class='emoji'>👍</span>
 - Mistico: sì <span class='emoji'>👍</span>
-- Difficoltà: 
+- Difficoltà: <span class='emoji'>🌙🌙🌙</span>
 
 ## Condizione di vittoria
 
