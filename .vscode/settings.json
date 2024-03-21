@@ -3,7 +3,8 @@
         "MD033" : false,
         "MD041" : false,
         "MD007" : false,
-        "MD032" : false
+        "MD032" : false,
+        "MD036" : false
     },
     "files.exclude": {
         "**/*.rpyc": true,

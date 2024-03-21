@@ -8,6 +8,7 @@ Regole per il gioco da tavolo Wherewolf.
 
 - [Ruoli](#ruoli)
 - [Ordine di chiamata](#ordine-di-chiamata)
+- [Guide per il narratore](#guide-per-il-narratore)
 - [Gerarchia dei Lupi Mannari](#gerarchia-dei-lupi-mannari)
 - [Varianti](#varianti)
 - [Wiki originale](#wiki-originale)

@@ -3,7 +3,7 @@
 
 # Megera
 
-<span class='emoji'>🧛-👍👍</span>
+<span class='emoji'>-👍👍</span>
 
 - Fazione: -
 - Aura: nera <span class='emoji'>👍</span>
